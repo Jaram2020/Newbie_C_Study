@@ -45,6 +45,6 @@
 
 | 번호 | 문제 |
 |---|:---:|
-| `1065` | [`함수`](https://www.acmicpc.net/problem/1065) |
+| `1065` | [`한수`](https://www.acmicpc.net/problem/1065) |
 
 * Problem Linked List ( Option )

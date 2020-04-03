@@ -48,3 +48,10 @@
 | `1065` | [`한수`](https://www.acmicpc.net/problem/1065) |
 
 * Problem Linked List ( Option )
+
+
+### 3. How to upload ( Contribution )
+
+1. Fork this repository
+2. Upload the file in your repository
+3. Pull request your commits here

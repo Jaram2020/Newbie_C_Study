@@ -47,7 +47,7 @@
 |---|:---:|
 | `1065` | [`한수`](https://www.acmicpc.net/problem/1065) |
 
-* Problem Linked Lis
+* Problem Linked List
 
 
 ### 3. How to upload ( Contribution )

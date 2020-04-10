@@ -47,7 +47,7 @@
 |---|:---:|
 | `1065` | [`한수`](https://www.acmicpc.net/problem/1065) |
 
-* Problem Linked List
+* [Problem Linked List](https://github.com/Jaram2020/Newbie_C_Study/tree/master/template)
 
 
 ### 3. How to upload ( Contribution )

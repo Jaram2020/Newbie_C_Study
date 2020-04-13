@@ -20,7 +20,7 @@ void DestroyNode(node*); // Use this to destroy node
 void Add(linked_list* list, int value) {
 	//TODO Create node and add to list
 }
-node* Remove(linked_list* list, int value) {
+node* Remove(linked_list* list, int index) {
 	//TODO Remove first node that has same value in the list
 	//TODO You need to check list will be empty so head must be NULL
 	return NULL;
@@ -28,6 +28,10 @@ node* Remove(linked_list* list, int value) {
 int Get(linked_list* list, int index) {
 	//TODO Get value from node
 	return 0;
+}
+int GetIndex(linked_list* list, int value) {
+	//TODO Get position of value. return -1 if value is not exist
+	return -1;
 }
 int Count(linked_list* list) {
 	//TODO Count nodes and return it

@@ -4,11 +4,10 @@
 
 ### 1. OS
 * Ubuntu - 권장사항
+  * Virtual Machine
   * WSL
-    * Virtual Machine
-    * Hard Drive
-  * Window
-  * MAC OS
+* Window
+* MAC OS
  
 ### 2. Problem - Based on Baekjoon
 * Problem printf
